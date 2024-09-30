@@ -95,3 +95,8 @@
 # 4. Copyright Statement
 
 The dataset is utilized exclusively for scientific research purposes. If used, proper citation in the literature is required. Please cite it as follows: **论文引用格式**
+
+# 5. DOWNLOAD
+
+通过网盘分享的文件：CPMID.rar
+链接: https://pan.baidu.com/s/1BABa6yUe_PwI7HhiMMdHsA 提取码: 9wpp
