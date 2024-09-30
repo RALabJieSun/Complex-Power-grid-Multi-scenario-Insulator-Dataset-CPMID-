@@ -16,7 +16,7 @@
 
 ​	The insulator and defect dataset, developed for complex, multi-scenario power grid environments, was utilized to pre-train existing insulator detection models. Analysis revealed a significant imbalance in the number of labels for normal insulators compared to those for damaged and pollution flashover defects. This imbalance led to issues such as non-converging accuracy curves, low recall rates, and overfitting on the validation set during model training. To address this issue, this dataset incorporates defect samples from public insulator datasets into the individual dataset to increase the label count for damaged and pollution flashover defects. This strategy aims to mitigate the effects of label imbalance and enhance the model's ability to learn and detect features of both defect types. Table 2-1 lists the objectives, power grid scenarios, number of images, etc. of the CPMID compared to the other publicly available dataset. The data indicate that the integrated insulator dataset is more suitable for ongoing research in complex power grid scenarios than the dataset before integration.
 
-![图片1](../../../Desktop/图片1.png)
+<img src='Self-constructed insulator datasets for complex, multi-scenario power grid environments.png'>
 
 <div align=center>Fig. 2-1 Self-constructed insulator datasets for complex, multi-scenario power grid environments.</div>
 
