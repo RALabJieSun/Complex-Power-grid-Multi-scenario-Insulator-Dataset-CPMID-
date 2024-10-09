@@ -18,11 +18,11 @@
 
 <img src='Self-constructed insulator datasets for complex, multi-scenario power grid environments.png'>
 
-<div align=center>Fig. 2-1 Self-constructed insulator datasets for complex, multi-scenario power grid environments.</div>
+<div align=center>Fig. Sample visualization in CPMID  for complex, multi-scenario power grid environments.</div>
 
 <br>
 
-<div align=center>Table 2-1 Statistics details of CPMID compared with other publicly available insulator datasets.</div>
+<div align=center>Table Statistics details of CPMID compared with other publicly available insulator datasets.</div>
 
 <table>
   <tr>
@@ -32,54 +32,55 @@
     <th>CPMID (ours)</th>
   </tr>
   <tr>
-    <td>Power grid scenario</td>
+    <td><strong>Power grid scenario</strong></td>
     <td>Transmission networks</td>
     <td>Transmission networks, Distribution networks</td>
     <td>Transmission networks, Distribution networks, Substation plants, Power plants</td>
   </tr>
   <tr>
-    <td>Feature</td>
+    <td><strong>Feature</strong></td>
     <td>Sample imbalance</td>
     <td>Small targets, dense, background interference</td>
     <td>Dense, overlapped, sheltered, cross-scale, background interference, small targets, sample imbalance</td>
   </tr>
   <tr>
-    <td>Insulator strings</td>
+    <td><strong>Insulator strings</strong></td>
     <td>1368</td>
     <td>1891</td>
     <td>72596</td>
   </tr>
   <tr>
-    <td>Broken defect</td>
+    <td><strong>Broken defect</strong></td>
     <td>248</td>
     <td>1204</td>
     <td>2104</td>
   </tr>
   <tr>
-    <td>Flashover damage</td>
+    <td><strong>Flashover damage</strong></td>
     <td>&mdash;</td>
     <td>2093</td>
     <td>2596</td>
   </tr>
   <tr>
-    <td>Total objects</td>
+    <td><strong>Total objects</strong></td>
     <td>1616</td>
     <td>8001</td>
     <td>77296</td>
   </tr>
   <tr>
-    <td>Total images</td>
+    <td><strong>Total images</strong></td>
     <td>848</td>
     <td>1684</td>
     <td>7712</td>
   </tr>
   <tr>
-    <td>Difficulty of detection</td>
+    <td><strong>Difficulty of detection</strong></td>
     <td>Low difficulty</td>
     <td>Medium difficulty</td>
     <td>High difficulty</td>
   </tr>
 </table>
+
 
 # 3. **FILE STRUCTURE**
 
@@ -98,5 +99,5 @@ The dataset is utilized exclusively for scientific research purposes. If used, p
 
 # 5. DOWNLOAD
 
-通过网盘分享的文件：CPMID.rar
-链接: https://pan.baidu.com/s/1BABa6yUe_PwI7HhiMMdHsA 提取码: 9wpp
+File shared via Netflix:  CPMID.rar.
+Link: https://pan.baidu.com/s/1BABa6yUe_PwI7HhiMMdHsA Extract code: 9wpp
