@@ -93,6 +93,11 @@
 | Annotations | The folder contains the labels used for the dataset  |
 |   Images    | The folder contains the images used for the dataset. |
 
+|   Folder    |                      Contents                       |
+| :---------: | :-------------------------------------------------: |
+| Annotations | The folder contains the labels used for the dataset |
+|   Images    | The folder contains the images used for the dataset |
+
 # 4. Copyright Statement
 
 The dataset is utilized exclusively for scientific research purposes. If used, proper citation in the literature is required. Please cite it as follows: **论文引用格式**
