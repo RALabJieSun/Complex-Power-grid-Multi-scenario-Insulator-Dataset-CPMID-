@@ -18,11 +18,11 @@
 
 <img src='Fig/L_Self-constructed insulator datasets for complex, multi-scenario power grid environments.png'>
 
-<div align=center><strong>Fig.</strong> Sample visualization in CPMID  for complex, multi-scenario power grid environments.</div>
+<div align=center><strong>Fig. 2-1</strong> Sample visualization in CPMID  for complex, multi-scenario power grid environments.</div>
 
 <br>
 
-<div align=center><strong>Table</strong> Statistics details of CPMID compared with other publicly available insulator datasets.</div>
+<div align=center><strong>Table 2-1</strong> Statistics details of CPMID compared with other publicly available insulator datasets.</div>
 
 <table>
   <tr>
