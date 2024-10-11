@@ -84,9 +84,9 @@
 
 # 3. **FILE STRUCTURE**
 
-​	The dataset contains 2 folders named Annotations and Images. Table 3-1 describes the contents of the two folders.
+​	The dataset contains 2 folders named Annotations and Images. **Table 3-1** describes the contents of the two folders.
 
-<div align=center>Table 3-1 Composition of the dataset folder</div>
+<div align=center><strong>Table 3-1 </strong>Composition of the dataset folder</div>
 
 |   Folder    |                       Contents                       |
 | :---------: | :--------------------------------------------------: |
