@@ -88,15 +88,26 @@
 
 <div align=center><strong>Table 3-1 </strong>Composition of the dataset folder</div>
 
-|   Folder    |                       Contents                       |
-| :---------: | :--------------------------------------------------: |
-| Annotations | The folder contains the labels used for the dataset  |
-|   Images    | The folder contains the images used for the dataset. |
-
-|   Folder    |                      Contents                       |
-| :---------: | :-------------------------------------------------: |
-| Annotations | The folder contains the labels used for the dataset |
-|   Images    | The folder contains the images used for the dataset |
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Folder</th>
+        <th>Contents</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Annotations</td>
+        <td>The folder contains the labels used for the dataset</td>
+      </tr>
+      <tr>
+        <td>Images</td>
+        <td>The folder contains the images used for the dataset</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 # 4. Copyright Statement
 
